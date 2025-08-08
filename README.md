@@ -1,4 +1,4 @@
-# Login Registration System
+# Product Management System
 
 ## Prerequisites
 
